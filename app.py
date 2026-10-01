@@ -1,1 +1,1 @@
-print("Bienvenido al sistema")
+print("Bienvenido al sistema de inventario")
